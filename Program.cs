@@ -23,3 +23,8 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+//adding profile changes
+//adding comments
+//adding payment
+//add subscribers
+//release change
